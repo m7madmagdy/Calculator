@@ -1,3 +1,3 @@
 # Simple Calculator APp
 
-<img src="https://m7madmagdy.github.io/pages/calculator%20App.jpg" widh=200%/>
+<img src="https://m7madmagdy.github.io/pages/calculator%20App.jpg" style="width:200px;"/>
