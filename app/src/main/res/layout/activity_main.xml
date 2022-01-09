@@ -15,7 +15,7 @@
         android:textSize="50sp"
         android:ellipsize="start"
         android:gravity="end"
-        android:textColor="@color/colorGray"
+        android:textColor="@color/white"
         android:singleLine="true"
         android:paddingTop="10dp"
         android:paddingLeft="10dp"/>
@@ -286,16 +286,17 @@
                     android:id="@+id/btnEqual"
                     android:layout_width="78dp"
                     android:layout_height="78dp"
-                    android:layout_margin="2dp"
-                    android:text="="
-                    android:textSize="30sp"
-                    android:textColor="@color/colorWhite"
+                    android:layout_marginStart="2dp"
+                    android:layout_marginTop="2dp"
+                    android:layout_marginEnd="2dp"
+                    android:layout_marginBottom="2dp"
+                    android:background="@drawable/btn_equal_bg"
                     android:stateListAnimator="@null"
-                    android:background="@drawable/btn_equal_bg"/>
+                    android:text="="
+                    android:textColor="@color/colorWhite"
+                    android:textSize="30sp" />
 
             </RelativeLayout>
-
-
         </LinearLayout>
 
     </LinearLayout>

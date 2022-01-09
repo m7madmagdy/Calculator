@@ -62,7 +62,6 @@ class MainActivity : AppCompatActivity() {
     private fun clear() {
         binding.tvInput.text = ""
         binding.tvOutput.text = ""
-
     }
 
     private fun calculate() {
